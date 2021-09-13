@@ -24,7 +24,7 @@ body {
   text-decoration: none;
   border: none;
   list-style: none;
-  color: #ffffff;
+  color: #000000;
   margin: 0;
 }
 
@@ -78,7 +78,7 @@ button {
   display: block;
   border: none;
   margin: 0 auto;
-  background-color: #6666ff;
+  background-color: #000000;
   color: #ffffff;
   width: 287px;
   height: 55px;
@@ -284,7 +284,7 @@ button {
 }
 
 .section-title--keycolorlight {
-  background-color: #000000;
+  background-color: #6666ff;
 }
 
 .section-title--keycolorlight .section-title__stage {
@@ -292,7 +292,7 @@ button {
 }
 
 .section-title--keycolor {
-  background-color: #000000;
+  background-color: #6666ff;
 }
 
 .section-title--story {
@@ -316,7 +316,7 @@ button {
   left: calc(50% - 95px);
   display: block;
   content: '';
-  background-color: #000000;
+  background-color: #6666ff;
   height: 2.6px;
   width: 190px;
 }
