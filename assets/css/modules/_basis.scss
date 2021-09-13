@@ -11,10 +11,6 @@ html {
   box-sizing: border-box;
 }
 body {
-    /* 背景色指定 */
-    background-color:#10100E;
-    color:#black;
-    }
   overflow-x: hidden;
   font-family: "游ゴシック体", "Yu Gothic", YuGothic, "ヒラギノ角ゴ Pro", "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo", sans-serif;
   font-size: 18px;
@@ -25,7 +21,10 @@ body {
   list-style: none;
   color: #000;
   margin: 0;
-}
+    /* 背景色指定 */
+    background-color:#10100E;
+    color:#black;
+    }
 img {
   width: 100%;
 }
