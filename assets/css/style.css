@@ -24,7 +24,7 @@ body {
   text-decoration: none;
   border: none;
   list-style: none;
-  color: #000;
+  color: #808080;
   margin: 0;
 }
 
@@ -79,7 +79,7 @@ button {
   border: none;
   margin: 0 auto;
   background-color: #006837;
-  color: #fff;
+  color: #808080;
   width: 287px;
   height: 55px;
 }
