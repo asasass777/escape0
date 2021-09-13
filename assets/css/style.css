@@ -26,6 +26,9 @@ body {
   list-style: none;
   color: #808080;
   margin: 0;
+  /* 背景色指定 */
+    background-color:#10100E;
+    color:#000000;
 }
 
 img {
