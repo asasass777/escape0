@@ -78,7 +78,7 @@ button {
   display: block;
   border: none;
   margin: 0 auto;
-  background-color: #6ebcff;
+  background-color: #e6e6fa;
   color: #000000;
   width: 287px;
   height: 55px;
@@ -239,15 +239,15 @@ button {
 * Color
 *********************/
 .bg-color--keycolor {
-  background-color: #6ebcff;
+  background-color: #e6e6fa;
 }
 
 .bg-color--subcolor {
-  background-color: #6ebcff;
+  background-color: #e6e6fa;
 }
 
 .bg-color--gray {
-  background-color: #6ebcff;
+  background-color: #e6e6fa;
 }
 
 /*********************
@@ -264,7 +264,7 @@ button {
 }
 
 .sub-title__bg {
-  background-color: #6ebcff;
+  background-color: #e6e6fa;
   padding-left: 1rem;
   padding-right: 1rem;
 }
@@ -274,7 +274,7 @@ button {
   line-height: 1.75;
   text-align: center;
   padding: 9px 20px;
-  background-color: #6ebcff;
+  background-color: #e6e6fa;
   margin: 0 -20px 20px -20px;
 }
 
@@ -284,7 +284,7 @@ button {
 }
 
 .section-title--keycolorlight {
-  background-color: #6ebcff;
+  background-color: #e6e6fa;
 }
 
 .section-title--keycolorlight .section-title__stage {
@@ -292,7 +292,7 @@ button {
 }
 
 .section-title--keycolor {
-  background-color: #6ebcff;
+  background-color: #e6e6fa;
 }
 
 .section-title--story {
@@ -316,7 +316,7 @@ button {
   left: calc(50% - 95px);
   display: block;
   content: '';
-  background-color: #6ebcff;
+  background-color: #e6e6fa;
   height: 2.6px;
   width: 190px;
 }
@@ -336,7 +336,7 @@ button {
   display: block;
   text-decoration: none;
   cursor: pointer;
-  background-color: #6ebcff;
+  background-color: #e6e6fa;
   color: #000000;
   font-size: 24px;
   line-height: 1.54167;
@@ -365,7 +365,7 @@ button {
 * header
 *****************/
 .header {
-  background-color: #6ebcff;
+  background-color: #e6e6fa;
   height: 60px;
 }
 
@@ -453,7 +453,7 @@ button {
 }
 
 .clear-message {
-  background-color: #6ebcff;
+  background-color: #e6e6fa;
   padding: 30px 30px 60px;
   position: relative;
 }
@@ -474,7 +474,7 @@ button {
   display: block;
   width: 183px;
   height: 2px;
-  background-color: #6ebcff;
+  background-color: #e6e6fa;
   bottom: 0;
   left: calc(50% - (183px/2));
 }
