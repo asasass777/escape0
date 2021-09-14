@@ -79,7 +79,7 @@ button {
   border: none;
   margin: 0 auto;
   background-color: #6ebcff;
-  color: #000;
+  color: #000000;
   width: 287px;
   height: 55px;
 }
@@ -337,7 +337,7 @@ button {
   text-decoration: none;
   cursor: pointer;
   background-color: #6ebcff;
-  color: #fff;
+  color: #000000;
   font-size: 24px;
   line-height: 1.54167;
   text-align: center;
