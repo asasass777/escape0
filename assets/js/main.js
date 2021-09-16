@@ -103,7 +103,7 @@ app.component('answer-input', {
       /* 送信ボタン上下に表示されるメッセージ */
       okMessage: '正解！',
       ngMessage: 'そのキーワードは違うようだぞ！？',
-      message: '逃げる'stage3,
+      stage3message: '逃げる',
       inputAnswer: '',
     }
   },
