@@ -102,7 +102,7 @@ app.component('answer-input', {
       okMessage: '正解！',
       ngMessage: 'そのキーワードは違うようだぞ！？',
       message: '',
-      inputAnswer: 'final answer？',
+      inputAnswer: '',
     }
   },
   template: `
