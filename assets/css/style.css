@@ -284,15 +284,15 @@ button {
 }
 
 .section-title--keycolorlight {
-  background-color: #e6e6fa;
+  background-color: #000;
 }
 
 .section-title--keycolorlight .section-title__stage {
-  color: #4654ff;
+  color: #000;
 }
 
 .section-title--keycolor {
-  background-color: #e6e6fa;
+  background-color: #000;
 }
 
 .section-title--story {
